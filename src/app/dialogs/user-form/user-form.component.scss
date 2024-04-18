@@ -1,0 +1,26 @@
+.maindiv{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: fl;
+    flex-wrap: wrap;
+}
+
+mat-form-field{
+    width: 307px;
+
+    margin: 5px;
+}
+
+.header{
+    text-align: center;
+    font-weight: 500;
+    background-color: blanchedalmond;
+}
+
+.mat-mdc-dialog-actions {
+    justify-content: center;
+}
+
+.imgCss{
+    display: flex;
+}
